@@ -1,0 +1,18 @@
+main {
+    margin: 2rem 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 35%;
+}
+
+a{ 
+    background-color: #69f0ae;
+}
